@@ -1,0 +1,12 @@
+[
+  {
+    "name": "Exemple de nom de personnalité",
+    "type": "personnality", 
+    "system": {
+      "Name": "Exmple de nom de personnalité",
+      "Equilibre": "Exemple de stade 1",
+      "Perturbe": "Exemple de stade 2",
+      "Desaxe": "Exemple de stade 3"
+    }
+  }
+]

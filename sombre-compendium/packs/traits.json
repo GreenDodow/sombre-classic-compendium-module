@@ -1,0 +1,12 @@
+[
+  {
+    "name": "Exemple de nom de trait",
+    "type": "trait",
+    "system": {
+      "Name": "Exemple de nom de trait",
+      "Description": "Exemple de description de trait",
+      "Type": "Normal ou Paranormal",
+      "Category": "Avantage ou Désavantage"
+    }
+  }
+]

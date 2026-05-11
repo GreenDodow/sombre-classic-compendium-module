@@ -1,0 +1,30 @@
+{
+  "id": "sombre-compendium",
+  "title": "Sombre - Compendium",
+  "description": "Compendium de personnalités et de traits pour le système Sombre",
+  "version": "1.0.0",
+  "authors": [
+    {
+      "name": "Green-Suzaku"
+    }
+  ],
+  "compatibility": {
+    "minimum": "14",
+    "verified": "14"
+  },
+  "esmodules": ["install.js"],
+  "packs": [
+    {
+      "name": "personnalities",
+      "label": "Personnalities",
+      "path": "packs/personnalities.db",
+      "type": "Item"
+    },
+     {
+      "name": "traits",
+      "label": "Traits",
+      "path": "packs/traits.db",
+      "type": "Item"
+    }
+  ]
+}
