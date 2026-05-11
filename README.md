@@ -2,7 +2,7 @@
 Module pour créer et peupler les compendiums nécessaires pour le jeu de rôle Sombre
 # Sombre Foundry Compendium Module
 
-Module pour **Foundry VTT** permettant la création et le peuplement automatique de compendiums pour le jeu de rôle :contentReference[oaicite:0]{index=0}.
+Module pour **Foundry VTT** permettant la création et le peuplement automatique de compendiums pour le jeu de rôle Sombre, la peur comme au cinéma de **Johan Scipion**.
 
 Ce module génère automatiquement des compendiums contenant :
 - des **traits**
